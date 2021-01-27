@@ -13,7 +13,7 @@
             <Ellipse
     Width="100"
     Height="50"
-    Fill="Yellow"
+    Fill="Red"
     Canvas.Left="10"
     Canvas.Top="25" />
 
@@ -31,7 +31,7 @@
             <Ellipse
     Width="50"
     Height="50"
-    Fill="Blue"
+    Fill="Pink"
     Canvas.Left="135"
     Canvas.Top="25"/>
 
